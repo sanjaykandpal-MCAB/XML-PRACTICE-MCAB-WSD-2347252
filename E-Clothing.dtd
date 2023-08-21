@@ -1,0 +1,10 @@
+<!ELEMENT E-Clothing (product+)>
+<!ELEMENT product (productID, name, price, size, color, brand,rating,review)>
+<!ELEMENT productID (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT review (#PCDATA)>

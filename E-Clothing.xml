@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE E-Clothing SYSTEM "E-Clothing.dtd">
+
+<E-Clothing> 
+    <product>
+        <productID>P12345</productID>
+        <name>T-shirt</name>
+        <price>$19.99</price>
+        <size>M</size>
+        <color>Blue</color>
+        <brand>GUCCI</brand>
+        <rating>4.5*</rating>
+        <review>Very good product</review>
+    </product>
+    <product>
+        <productID>P12346</productID>
+        <name>PANTS</name>
+        <price>$40.20</price>
+        <size>L</size>
+        <color>RED</color>
+        <brand>VAN HEUSEN</brand>
+        <rating>2.5*</rating>
+        <review>good product</review>
+    </product>
+    <product>
+        <productID>P12347</productID>
+        <name>Cargo</name>
+        <price>$40</price>
+        <size>L</size>
+        <color>RED</color>
+        <brand>VAN HEUSEN</brand>
+        <rating>7.5*</rating>
+        <review>nice product</review>
+    </product>
+    <product>
+        <productID>P12348</productID>
+        <name>Belt</name>
+        <price>$10</price>
+        <size>s</size>
+        <color>RED</color>
+        <brand>MAX</brand>
+        <rating>8.5*</rating>
+        <review>Very product</review>
+    </product>
+    <product>
+        <productID>P12349</productID>
+        <name>CHRIS</name>
+        <price>$20.20</price>
+        <size>L</size>
+        <color>RED</color>
+        <brand>US HEUSEN</brand>
+        <rating>8.5*</rating>
+        <review>Very good</review>
+    </product>
+    <product>
+        <productID>P12340</productID>
+        <name>PAN</name>
+        <price>$220</price>
+        <size>L</size>
+        <color>RED</color>
+        <brand>RI HEUSEN</brand>
+        <rating>7.5*</rating>
+        <review>Very good product</review>
+    </product>
+    <product>
+        <productID>P12341</productID>
+        <name>CHRIS</name>
+        <price>$120</price>
+        <size>M</size>
+        <color>RED</color>
+        <brand>DAN HEUSEN</brand>
+        <rating>6.5*</rating>
+        <review>Awesome must use product</review>
+    </product>
+    <product>
+        <productID>P12342</productID>
+        <name>Tshirts</name>
+        <price>$24</price>
+        <size>M</size>
+        <color>RED</color>
+        <brand>San HEUSEN</brand>
+        <rating>1.5*</rating>
+        <review>Disappointed</review>
+    </product>
+    <product>
+        <productID>P12343</productID>
+        <name>Tie</name>
+        <price>$120</price>
+        <size>L</size>
+        <color>RED</color>
+        <brand>Hawai HEUSEN</brand>
+        <rating>8.5*</rating>
+        <review>Great</review>
+    </product>
+    <product>
+        <productID>P12344</productID>
+        <name>Cap</name>
+        <price>$111</price>
+        <size>L</size>
+        <color>Blue</color>
+        <brand>Temop</brand>
+        <rating>9.5*</rating>
+        <review>Superb Product</review>
+    </product>
+</E-Clothing>
